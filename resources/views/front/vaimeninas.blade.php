@@ -26,24 +26,24 @@
 
                     <center><table>
                             <tr>
-                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/work_1.png'/></td>
+                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/Daniela.jpg'/></td>
 
-                                <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
-                                    Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td>
+                                <td> "Junte-se! Busque" Compartilhe!"</br>
+                                    <i>Daniela Costa Terra</i></td>
                             </tr>
 
                             <tr>
-                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/work_1.png'/></td>
+                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/Leticia.jpg'/></td>
 
-                                <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
-                                    Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td>
+                                <td> "Porque lugar de mulher é onde ela queira estar." </br>
+                                    <i>Letícia Maria de Melo Silva Cheloni</i>.</td>
                             </tr>
 
                             <tr>
-                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/work_1.png'/></td>
+                                <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/Suelen.jpg'/></td>
 
-                                <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
-                                    Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td>
+                                <td> "Você pode muito mais do que imagina. Sonhe, trabalhe e vá, E se der medo, vai com medo mesmo. "</br>
+                                    <i>Suelen Mapa de Paula</i> </td>
                             </tr>
                         </table></center>
 
@@ -62,18 +62,16 @@
 
                 <center><table>
                     <tr>
-                        <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/work_1.png'/></td>
-
-                        <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
-                            Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td>
+                        <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/Isabella.jpg'/></td>
+                        <td> "Vai, Meninas!" </br></br> </td>
+                        <td><i>Isabella Alane Darin Melo</i></td>
                     </tr>
 
-                        <tr>
-                            <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/work_1.png'/></td>
-
-                            <td> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </br>
-                                Phasellus bibendum aliquet erat, ut ornare purus malesuada et.</td>
-                        </tr>
+                    <tr>
+                        <td><img style="border-radius: 50%;" width="200" height="200" src='/front/assets/images/Raylla.jpg'/></td>
+                        <td> "Vai, Meninas!" </br></br> </td>
+                        <td><i>Raylla Luiza da Silva Gama</i></td>
+                    </tr>
                 </table></center>
 
             </div>
