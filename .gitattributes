@@ -3,4 +3,5 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 *.php linguist-detectable
+*.html linguist-detectable
 CHANGELOG.md export-ignore
